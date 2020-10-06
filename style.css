@@ -1,3 +1,7 @@
+
+
+
+
 body {
     display: flex;
     flex-direction: column;
@@ -5,7 +9,7 @@ body {
     background: #6E9E6D;
     font-family: Helvetica;
     color:#FFFFFF;
-    font-family: "book";
+    font-family: 'Patrick Hand';
 }
 
 .privacy {
@@ -17,7 +21,7 @@ body {
 }
 
 h1 {
-    font-family: "Bold";
+    font-family: 'Patrick Hand';
     text-transform: uppercase;
     font-size: 50px;
 }
