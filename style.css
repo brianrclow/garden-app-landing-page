@@ -93,3 +93,12 @@ img.image {
         display: block;
     }
 }
+
+.links {
+    display: flex;
+    flex-direction: row;
+}
+
+.link {
+    padding: 20px;
+}
