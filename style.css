@@ -48,6 +48,7 @@ img.screenshot {
 
 div.screenshot {
     text-align: center;
+    max-width:95%;
 }
 
 .footer {
