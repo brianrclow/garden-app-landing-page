@@ -32,6 +32,18 @@ img.image {
     height: 400px;
 }
 
+img.screenshot {
+    max-width:100%;
+    height:auto;
+    width: 20%;
+    height: 20%;
+
+}
+
+div.screenshot {
+    text-align: center;
+}
+
 .store-badges {
     display: flex;
 }
