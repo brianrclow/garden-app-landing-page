@@ -28,8 +28,8 @@ h1 {
 }
 
 img.image {
-    width: 400px;
-    height: 400px;
+    width: 200px;
+    height: 200px;
 }
 
 img.screenshot {
@@ -42,14 +42,6 @@ img.screenshot {
 
 div.screenshot {
     text-align: center;
-}
-
-.store-badges {
-    display: flex;
-}
-.store-badges img {
-    height: 50px;
-    padding: 5px;
 }
 
 .footer {
